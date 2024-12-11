@@ -25,6 +25,11 @@ The **6T SRAM cell** is a widely used memory cell in SRAM design, consisting of 
 
 
 
+## Transistor Sizing for 6T SRAM (45nm Technology)
+![6T SRAM Cell](images/sram_transistor_ratios.png)
+
+
+
 ## Testbench for 6T SRAM
 
 To verify the functionality and performance of the 6T SRAM cell, a **testbench** was created in **Cadence Virtuoso**. The testbench simulates the **read** and **write** operations of the SRAM cell under various conditions, allowing for the analysis of stability, power consumption, and timing characteristics.
